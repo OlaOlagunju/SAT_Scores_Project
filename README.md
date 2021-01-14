@@ -17,8 +17,11 @@ From our analysis, we concluded that:
 
 - Schools that have higher class sizes actually perform better in SAT exams than those that have smaller class sizes. This was a big surprise and upon further research is something that is not just confined to NYC. Perhaps, the idea of smaller class sizes equals academic success is not as accurate as previously thought. 
 
-![]()
-![]()
-![]()
-![]()
-![]()
+![](https://github.com/OlaOlagunju/SAT_Scores_Project/blob/main/fig_6.png)
+![](https://github.com/OlaOlagunju/SAT_Scores_Project/blob/main/fig_3.png)
+![](https://github.com/OlaOlagunju/SAT_Scores_Project/blob/main/fig_2.png)
+![](https://github.com/OlaOlagunju/SAT_Scores_Project/blob/main/fig_4.png)
+![](https://github.com/OlaOlagunju/SAT_Scores_Project/blob/main/fig_7.png)
+![](https://github.com/OlaOlagunju/SAT_Scores_Project/blob/main/fig_8.png)
+![](https://github.com/OlaOlagunju/SAT_Scores_Project/blob/main/fig_9.png)
+![](https://github.com/OlaOlagunju/SAT_Scores_Project/blob/main/fig_10.png)
