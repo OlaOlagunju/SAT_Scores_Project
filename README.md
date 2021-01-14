@@ -15,7 +15,6 @@ From our analysis, we concluded that:
 
 ![](https://github.com/OlaOlagunju/SAT_Scores_Project/blob/main/fig_3.png)
 ![](https://github.com/OlaOlagunju/SAT_Scores_Project/blob/main/fig_2.png)
-![](https://github.com/OlaOlagunju/SAT_Scores_Project/blob/main/fig_4.png)
 -------------------------------------------------------------------
 
 - Schools with a higher proportion of females perform slightly better than majority male schools but the difference is small and gender is nowhere near as important to a schools SAT performance as ethnicicty.
