@@ -1,5 +1,7 @@
 # Analyzing NYC High School SAT Scores
 
+[Full Project Link](https://github.com/OlaOlagunju/SAT_Scores_Project/blob/main/Full%20Project%20-%20Analyzing%20NYC%20High%20School%20SAT%20Scores.ipynb)
+
 ## Summary
 In this project, we investigated the correlation between SAT scores in NYC high schools and various demographics such as race, gender and income. All of the data sets used in this project have been taken from https://data.cityofnewyork.us/.
 
